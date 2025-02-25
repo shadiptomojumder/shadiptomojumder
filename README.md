@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Experienced MERN stack developer with a passion for building robust, scalable, and high-performance web applications. Skilled in MongoDB, Express.js, React, and Node.js, I develop end-to-end solutions that seamlessly integrate frontend and backend technologies.</h4>
+<h3 align="center">Experienced MERN stack developer with a passion for building robust, scalable, and high-performance web applications. Skilled in MongoDB, Express.js, React, and Node.js, I develop end-to-end solutions that seamlessly integrate frontend and backend technologies.</h3>
 
 ###
 
