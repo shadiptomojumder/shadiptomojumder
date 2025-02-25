@@ -131,5 +131,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadiptomojumder&show_icons=true&locale=en&layout=compact" alt="shadipyo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadiptomojumder&show_icons=true&locale=en&layout=compact" alt="shadipyo" /></p>
 
